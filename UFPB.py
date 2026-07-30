@@ -1,2 +1,2 @@
 import streamlit as st
-st.write('vamos aprender streamlit juntos!')
+st.write('Vamos aprender streamlit juntos!')
